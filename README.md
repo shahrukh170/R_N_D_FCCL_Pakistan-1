@@ -94,3 +94,8 @@ stag Thrust at Throat  : 5645.841136462183
 'Average Exit Temperature (K)  : -197825.30053815612'
 'Average Exit Thrust (N) : 180445.9207903323'
 298 no of records
+
+
+CHECK THE ABOVE RESULTS WITH ONLINE CALCULATOR (Url :  http://www.aerodynamics4students.com/moc/moc_flow.php?problem=1&alt=0&gamma=1.4&pto=500&tto=3150&mach=2.35&vplot=1&option=Display )
+
+![image](https://user-images.githubusercontent.com/16321874/178581434-db8dfc73-185e-4878-9a1a-933df9d7b86c.png)
